@@ -17,28 +17,30 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Internet Measurements Research Intern"
+  company = "Max Planck Institute for Informatics"
+  company_url = "https://www.mpi-inf.mpg.de/"
+  location = "Saarbrücken, Germany (remote)"
+  date_start = "2020-08-05"
+  date_end = ""
+  description = "Supervised by [Dr. Oliver Gasser](https://www.mpi-inf.mpg.de/departments/inet/people/oliver-gasser), in [Prof. Anja Feldmann's research group](https://www.mpi-inf.mpg.de/departments/inet)"
+
+[[experience]]
+  title = "Data Infrastructure Engineer"
+  company = "Sotoon (Cafe Bazaar Cloud)"
+  company_url = "https://cafebazaar.ir/about?l=en"
+  location = "Tehran, Iran"
+  date_start = "2018-07-19"
+  date_end = ""
+
+[[experience]]
+  title = "Data Engineering Intern"
+  company = "Sahab Pardaz"
+  company_url = "https://sahab.ir/en/"
+  location = "Tehran, Iran"
+  date_start = "2017-07-01"
+  date_end = "2017-09-15"
 
 +++
