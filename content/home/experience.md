@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   date_end = "2017-09-15"
   description = """
   - Developed a web search engine
-  - Set up, maintained, and wrote a document index/fetch wrapper for ElasticSearch
+  - Set up, maintained, and developed a document index/fetch wrapper for ElasticSearch
   """
 
 +++
