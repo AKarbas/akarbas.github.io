@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = "2017-09-15"
   description = """
-  - Developed a web search engine
+  - Developed a distributed and highly available web search engine indexing millions of websites
   - Set up, maintained, and developed a document index/fetch wrapper for ElasticSearch
   """
 
