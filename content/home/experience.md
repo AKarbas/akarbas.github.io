@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data Infrastructure Engineer"
-  company = "Sotoon (Cafe Bazaar Cloud)"
+  company = "Sotoon (CafeBazaar Cloud)"
   company_url = "https://cafebazaar.ir/about?l=en"
   location = "Tehran, Iran"
   date_start = "2018-07-19"

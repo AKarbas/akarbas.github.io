@@ -14,7 +14,7 @@ organizations:
   url: "http://www.en.sharif.edu/"
 - name: Max Planck Institute for Informatics
   url: "https://www.mpi-inf.mpg.de/"
-- name: "Sotoon (Cafe Bazaar Cloud)"
+- name: "Sotoon (CafeBazaar Cloud)"
   url: "https://cafebazaar.ir/about?l=en"
 
 # Short bio (displayed in user profile at end of posts)
