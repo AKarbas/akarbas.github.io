@@ -45,6 +45,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Machine Learning Engineer"
+  company = "GojeSabz Big Data"
+  location = "Tehran, Iran"
+  date_start = "2018-02-01"
+  date_end = "2019-09-15"
+  description = """
+  - Collaborated with [Dr. Shahin Rouhani](http://physics.sharif.ir/~web/shahin-rouhani/) and a team of students from Sharif University of Technology
+  - Built a deep learning-based Farsi text Object Character Recognition (OCR) pipeline
+  """
+
+[[experience]]
   title = "Data Engineering Intern"
   company = "Sahab Pardaz"
   company_url = "https://sahab.ir/en/"
