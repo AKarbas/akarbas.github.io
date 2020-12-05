@@ -65,5 +65,8 @@ highlight_name: false
 
 **Currently looking for a PhD position to join in Fall 2021.**
 
-I'm an Iranian Computer Science student with two years of industry experience as a Data Infrastructure Engineer. I'm currently doing an academic research internship in Internet Measurements.
-I'm generally interested in Systems Engineering and related subjects.
+I’m an Iranian Computer Science student with two years of industry experience as a Data Infrastructure Engineer. I’m currently doing an academic research internship in Internet Measurements at Max Planck Institute for Informatics.
+
+My research interests are Systems Engineering and related subjects; Mainly [large scale] Distributed Systems, Cloud Computing, Operating Systems, Datacenters, Computer Networks, and Security. My general interests are distributed and scalable [Big Data] software and also cloud-native software in general.
+
+In the past, I have done a Data Engineering summer internship at Sahab Pardaz after the first year of my bachelor’s; And collaborated with Dr. Shahin Rouhani of the Sharif University of Technology as a Machine Learning Engineer.
