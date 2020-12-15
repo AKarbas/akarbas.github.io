@@ -21,9 +21,11 @@ organizations:
 bio: Currently looking for a PhD position to join in Fall 2021 in
 
 interests:
-- Distributed Systems
-- Computer Networks
+- Distributed Computing
+- Cloud Computing
 - Operating Systems
+- File Systems
+- Computer Networks
 - Security
 
 education:
