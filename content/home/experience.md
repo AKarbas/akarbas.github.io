@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "For more details see [CV](media/AminKarbas_cv.pdf)"
+subtitle = "For more details see my [CV](media/AminKarbas_cv.pdf)"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
