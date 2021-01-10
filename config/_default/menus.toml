@@ -14,11 +14,6 @@
   weight = 2
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 3
-
-[[main]]
-   name = "CV"
+   name = "<b> CV </b>"
    url = "media/AminKarbas_cv.pdf"
-   weight = 4
+   weight = 3
