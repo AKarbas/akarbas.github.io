@@ -18,19 +18,11 @@ organizations:
   url: "https://cafebazaar.ir/about?l=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently looking for a PhD position to join in Fall 2021 in
-
-interests:
-- Distributed Computing
-- Cloud Computing
-- Operating Systems
-- Storage and File Systems
-- Computer Networks
-- Security
+bio: Currently looking for a PhD position to join in Fall 2021
 
 education:
   courses:
-  - course: BS Computer Science
+  - course: B.Sc. Computer Science
     institution: Sharif University of Technology
     year: 2021
 
@@ -67,6 +59,18 @@ highlight_name: false
 
 **Currently looking for a PhD position to join in Fall 2021.**
 
-I’m an Iranian Computer Science student with 2+ years of industry experience as a Data Infrastructure Engineer. I’m currently doing an Internet Measurement research internship at Max Planck Institute for Informatics. I am also a data infrastructure engineer at CafeBazaar Cloud: our team provides the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web
+I’m an Iranian Computer Science student with over 2.5 years of industry experience as a Data Infrastructure Engineer. I’m currently doing a research internship at Max Planck Institute for Informatics. I am also a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon): our team provides the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web.
 
 In the past, I have done a Data Engineering summer internship at Sahab Pardaz (after the first year of my bachelor’s); And collaborated with Dr. Shahin Rouhani of Sharif University of Technology as a Machine Learning Engineer.
+
+# Interests:
+
+I am a practice-oriented systems person. Generally, my interests are:
+
+* **Operating Systems**: scheduling, security, kernels, firmwares, virtualization, containerization, etc.
+* **Architecture**: accelerators, hardware-software co-design, SoCs
+* **File Systems** and **Storage**: general-purpose or domain-specific
+* **Distributed Computing**: storage systems, cloud computing, scheduling, databases, application-specific accelerators (ex. distributed machine-learning), etc.
+
+In addition, I'm interested in combinations of these, like distributed storage/file-systems or resource disaggregation.
+I'm also interested in **Computer Networks** and **Security**.
