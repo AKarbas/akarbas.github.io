@@ -18,7 +18,7 @@ organizations:
   url: "https://cafebazaar.ir/about?l=en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently looking for a PhD position to join in Fall 2021
+bio: CS student, Data Infrastructure Engineer
 
 education:
   courses:
@@ -57,15 +57,13 @@ highlight_name: false
 # - Visitors
 ---
 
-**Currently looking for a PhD position to join in Fall 2021.**
-
 I’m an Iranian Computer Science student with over 2.5 years of industry experience as a Data Infrastructure Engineer. I’m currently doing a research internship at Max Planck Institute for Informatics. I am also a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon): our team provides the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web.
 
 In the past, I have done a Data Engineering summer internship at Sahab Pardaz (after the first year of my bachelor’s); And collaborated with Dr. Shahin Rouhani of Sharif University of Technology as a Machine Learning Engineer.
 
 # Interests:
 
-I am a practice-oriented systems person. Generally, my interests are:
+I am a systems engineer. Generally, my interests are:
 
 * **Operating Systems**: scheduling, security, kernels, firmwares, virtualization, containerization, etc.
 * **Architecture**: accelerators, hardware-software co-design, SoCs
