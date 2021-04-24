@@ -57,6 +57,8 @@ highlight_name: false
 # - Visitors
 ---
 
+I'll be joining UCSC's Computer Science and Engineering department this Fall as a PhD student.
+
 I’m an Iranian Computer Science student with over 2.5 years of industry experience as a Data Infrastructure Engineer. I’m currently doing a research internship at Max Planck Institute for Informatics. I am also a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon): our team provides the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web.
 
 In the past, I have done a Data Engineering summer internship at Sahab Pardaz (after the first year of my bachelor’s); And collaborated with Dr. Shahin Rouhani of Sharif University of Technology as a Machine Learning Engineer.
