@@ -6,7 +6,7 @@ title: Mohammadamin Karbasforushan
 superuser: true
 
 # Role/position
-role: Computer Science Student, Research Intern, Data Infrastructure Engineer
+role: Computer Science Student, Research Intern, Ex-Data Infrastructure Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -14,8 +14,6 @@ organizations:
   url: "http://www.en.sharif.edu/"
 - name: Max Planck Institute for Informatics
   url: "https://www.mpi-inf.mpg.de/"
-- name: "Sotoon (CafeBazaar Cloud)"
-  url: "https://cafebazaar.ir/about?l=en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: CS student, Data Infrastructure Engineer
@@ -59,18 +57,24 @@ highlight_name: false
 
 I'll be joining UCSC's Computer Science and Engineering department this Fall as a PhD student.
 
-I’m an Iranian Computer Science student with over 2.5 years of industry experience as a Data Infrastructure Engineer. I’m currently doing a research internship at Max Planck Institute for Informatics. I am also a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon): our team provides the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web.
+I’m an Iranian Computer Science student with over 2.5 years of industry experience as a Data Infrastructure Engineer. I’m currently doing a research internship at Max Planck Institute for Informatics.
 
-In the past, I have done a Data Engineering summer internship at Sahab Pardaz (after the first year of my bachelor’s); And collaborated with Dr. Shahin Rouhani of Sharif University of Technology as a Machine Learning Engineer.
+
+
+Previously, I:
+
+* Was a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon): our team provided the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web;
+* Did a Data Engineering summer internship at Sahab Pardaz after the first year of my bachelor’s, where we deveolped a practice web search engine; And,
+* Collaborated with Dr. Shahin Rouhani of Sharif University of Technology as a Machine Learning Engineer.
 
 # Interests:
 
 I am a systems engineer. Generally, my interests are:
 
-* **Operating Systems**: scheduling, security, kernels, firmwares, virtualization, containerization, etc.
-* **Architecture**: accelerators, hardware-software co-design, SoCs
-* **File Systems** and **Storage**: general-purpose or domain-specific
+* **Operating Systems**: scheduling, security, kernels, firmwares, virtualization, containerization, etc.;
+* **Architecture**: accelerators, hardware-software co-design, SoCs;
+* **File Systems** and **Storage**: general-purpose or domain-specific;
 * **Distributed Computing**: storage systems, cloud computing, scheduling, databases, application-specific accelerators (ex. distributed machine-learning), etc.
 
-In addition, I'm interested in combinations of these, like distributed storage/file-systems or resource disaggregation.
+In addition, I'm interested in combinations of these, like resource disaggregation.
 I'm also interested in **Computer Networks** and **Security**.

@@ -37,10 +37,10 @@ date_format = "Jan 2006"
   company_url = "https://cafebazaar.ir/about?l=en"
   location = "Tehran, Iran"
   date_start = "2018-07-19"
-  date_end = ""
+  date_end = "2021-05-29"
   description = """
   - Providing the platform to transfer, store, and analyze big data at petabyte scale
-  - Set up and/or maintaining Apache {Druid, Kafka, Hadoop, Spark, Zeppelin, ZooKeeper} and M3DB clusters/services
+  - Set up and/or maintained Apache {Druid, Kafka, Hadoop, Spark, Zeppelin, ZooKeeper} and M3DB clusters/services
   - Developed Kubernetes operators to manage Apache {Kafka, Hadoop, ZooKeeper} clusters in a Platform as a Service environment
   """
 
