@@ -1,26 +1,28 @@
 ---
 # Display name
-title: Mohammadamin Karbasforushan
+title: Mohammadamin Karbasforushan (Amin Karbas)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Computer Science Student, Research Intern, Ex-Data Infrastructure Engineer
+role: Ph.D. student at UCSC
 
 # Organizations/Affiliations
 organizations:
-- name: Sharif University of Technology
-  url: "http://www.en.sharif.edu/"
+- name: University of California Santa Cruz
+  url: "https://www.ucsc.edu"
 - name: Max Planck Institute for Informatics
   url: "https://www.mpi-inf.mpg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: CS student, Data Infrastructure Engineer
+bio: CSE Ph.D. student
 
 education:
   courses:
-  - course: B.Sc. Computer Science
+  - course: Ph.D., Computer Science and Engineering
+    institution: U.C. Santa Cruz
+  - course: B.Sc., Computer Science
     institution: Sharif University of Technology
     year: 2021
 
@@ -35,6 +37,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mkarbas/
+# - icon: facebook
+#   icon_pack: fab
+#   link: https://fb.com/AKarbasf/
 - icon: github
   icon_pack: fab
   link: https://github.com/akarbas
@@ -55,9 +60,9 @@ highlight_name: false
 # - Visitors
 ---
 
-I'll be joining UCSC's Computer Science and Engineering department this Fall as a PhD student.
+I will join UCSC's Computer Science and Engineering department this Fall as a PhD student, advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com).
 
-I’m an Iranian Computer Science student with over 2.5 years of industry experience as a Data Infrastructure Engineer. I’m currently doing a research internship at Max Planck Institute for Informatics.
+I’m an Iranian Computer Science student with almost 3 years of industry experience as a Data Infrastructure Engineer. I’m currently doing a research internship at Max Planck Institute for Informatics.
 
 
 
