@@ -6,7 +6,7 @@ title: Mohammadamin Karbasforushan (Amin Karbas)
 superuser: true
 
 # Role/position
-role: Ph.D. student at UCSC
+role: <a href="https://engineering.ucsc.edu/people/mkarbasf">Ph.D. student at UCSC</a>
 
 # Organizations/Affiliations
 organizations:
