@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.mpi-inf.mpg.de/"
   location = "Saarbrücken, Germany (remote)"
   date_start = "2020-08-05"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """
   - Supervised by [Dr. Oliver Gasser](https://www.mpi-inf.mpg.de/departments/inet/people/oliver-gasser), in [Prof. Anja Feldmann's research group](https://www.mpi-inf.mpg.de/departments/inet)
   - Investigating the impact of changes in TLS certificate lifetime requirements enforced by user-agents

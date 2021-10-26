@@ -12,8 +12,6 @@ role: <a href="https://engineering.ucsc.edu/people/mkarbasf">Ph.D. student at UC
 organizations:
 - name: University of California Santa Cruz
   url: "https://www.ucsc.edu"
-- name: Max Planck Institute for Informatics
-  url: "https://www.mpi-inf.mpg.de/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: CSE Ph.D. student
@@ -62,12 +60,13 @@ highlight_name: false
 
 I will join UCSC's Computer Science and Engineering department this Fall as a PhD student, advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com).
 
-I’m an Iranian Computer Science student with almost 3 years of industry experience as a Data Infrastructure Engineer. I’m currently doing a research internship at Max Planck Institute for Informatics.
+I’m an Iranian Computer Science student with almost 3 years of industry experience as a Data Infrastructure Engineer.
 
 
 
 Previously, I:
 
+* Did a research internship at Max Planck Institute for Informatics, where I worked toward gathering Certificate Transparency Logs' data for further analysis;
 * Was a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon): our team provided the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web;
 * Did a Data Engineering summer internship at Sahab Pardaz after the first year of my bachelor’s, where we deveolped a practice web search engine; And,
 * Collaborated with Dr. Shahin Rouhani of Sharif University of Technology as a Machine Learning Engineer.
