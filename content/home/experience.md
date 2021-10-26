@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   date_end = "2020-12-31"
   description = """
   - Supervised by [Dr. Oliver Gasser](https://www.mpi-inf.mpg.de/departments/inet/people/oliver-gasser), in [Prof. Anja Feldmann's research group](https://www.mpi-inf.mpg.de/departments/inet)
-  - Investigating the impact of changes in TLS certificate lifetime requirements enforced by user-agents
-  - Dumping and analyzing Certificate Transparency Logs
+  - Investigated the impact of changes in TLS certificate lifetime requirements enforced by user-agents
+  - Dumped and analyzed Certificate Transparency Logs
   """
 
 [[experience]]
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2018-07-19"
   date_end = "2021-05-29"
   description = """
-  - Providing the platform to transfer, store, and analyze big data at petabyte scale
+  - Provided the platform to transfer, store, and analyze big data at petabyte scale
   - Set up and/or maintained Apache {Druid, Kafka, Hadoop, Spark, Zeppelin, ZooKeeper} and M3DB clusters/services
   - Developed Kubernetes operators to manage Apache {Kafka, Hadoop, ZooKeeper} clusters in a Platform as a Service environment
   """
@@ -64,7 +64,7 @@ date_format = "Jan 2006"
   date_end = "2017-09-15"
   description = """
   - Developed a distributed and highly available web search engine indexing millions of websites
-  - Set up, maintained, and developed a document index/fetch wrapper for ElasticSearch
+  - Developed a document index/fetch wrapper for ElasticSearch
   """
 
 +++
