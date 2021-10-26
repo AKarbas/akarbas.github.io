@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohammadamin Karbasforushan (Amin Karbas)
+title: Amin Karbas
 
 # Is this the primary user of the site?
 superuser: true
@@ -58,6 +58,8 @@ highlight_name: false
 # - Researchers
 # - Visitors
 ---
+My full name is **Mohammadamin Karbasforushan**.
+
 I'm currently a CSE Ph.D. student at U.C. Santa Cruz, where under the advisement of [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study Applied Cryptography.
 Previously, I:
 * Did a research internship at Max Planck Institute for Informatics, where I worked toward gathering Certificate Transparency Logs' data for further analysis;
