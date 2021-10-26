@@ -6,12 +6,13 @@ title: Mohammadamin Karbasforushan (Amin Karbas)
 superuser: true
 
 # Role/position
-role: <a href="https://engineering.ucsc.edu/people/mkarbasf">Ph.D. student at UCSC</a>
+role: <a href="https://engineering.ucsc.edu/people/mkarbasf">Ph.D. Student</a>
 
 # Organizations/Affiliations
 organizations:
+- name: Computer Science and Engineering Department
+- name: Baskin School of Engineering
 - name: University of California Santa Cruz
-  url: "https://www.ucsc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: CSE Ph.D. student
@@ -31,7 +32,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:k.mohammadamin@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mkarbasf@ucsc.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mkarbas/
@@ -57,28 +58,21 @@ highlight_name: false
 # - Researchers
 # - Visitors
 ---
-
-I will join UCSC's Computer Science and Engineering department this Fall as a PhD student, advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com).
-
-I’m an Iranian Computer Science student with almost 3 years of industry experience as a Data Infrastructure Engineer.
-
-
-
+I'm currently a CSE Ph.D. student at U.C. Santa Cruz, where under the advisement of [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study Applied Cryptography.
 Previously, I:
-
 * Did a research internship at Max Planck Institute for Informatics, where I worked toward gathering Certificate Transparency Logs' data for further analysis;
 * Was a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon): our team provided the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web;
 * Did a Data Engineering summer internship at Sahab Pardaz after the first year of my bachelor’s, where we deveolped a practice web search engine; And,
 * Collaborated with Dr. Shahin Rouhani of Sharif University of Technology as a Machine Learning Engineer.
 
+I'm originally from Tehran, Iran, where I got my bachelor's degree in CS at Sharif University of Technology.
+
 # Interests:
 
-I am a systems engineer. Generally, my interests are:
-
+* **Applied Cryptography**: Searchable Encryption, ORAMs, etc.;
 * **Operating Systems**: scheduling, security, kernels, firmwares, virtualization, containerization, etc.;
 * **Architecture**: accelerators, hardware-software co-design, SoCs;
 * **File Systems** and **Storage**: general-purpose or domain-specific;
 * **Distributed Computing**: storage systems, cloud computing, scheduling, databases, application-specific accelerators (ex. distributed machine-learning), etc.
 
-In addition, I'm interested in combinations of these, like resource disaggregation.
-I'm also interested in **Computer Networks** and **Security**.
+Generally speaking, I'm a systems engineer. I'm also interested in **Computer Networks**, **Security**, and combinations of this long list, like resource disaggregation.
