@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Mohammadamin Karbasforushan's Personal Website"
+description = "Amin Karbas's Personal Website"
 
 ############################
 ## Site Features
@@ -88,7 +88,7 @@ show_related = {book = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "k.mohammadamin@gmail.com"
+email = "mkarbasf@ucsc.edu"
 phone = ""
 
 # Address
@@ -113,7 +113,7 @@ phone = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/mkarbas/"},
-  # {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/OItsMAK"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/OItsMAK2"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -128,7 +128,7 @@ contact_links = [
 sharing_image = "me.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "OItsMAK"
+twitter = "OItsMAK2"
 
 ############################
 ## Regional Settings

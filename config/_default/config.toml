@@ -41,8 +41,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   authors = "/author/:slug/"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
+#  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+#  section = [ "HTML", "RSS" ]
+  home = [ "HTML", "WebAppManifest" ]
+  section = [ "HTML" ]
 
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]
@@ -65,7 +67,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 75
+  quality = 100
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.

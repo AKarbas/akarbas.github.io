@@ -36,6 +36,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mkarbas/
+- icon: twitter
+  icon_pack: fab
+  link: https://www.twitter.com/OItsMAK2/
 # - icon: facebook
 #   icon_pack: fab
 #   link: https://fb.com/AKarbasf/
@@ -47,7 +50,7 @@ social:
   link: media/AminKarbas_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "k.mohammadamin@gmail.com"
+email: "mkarbasf@ucsc.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
