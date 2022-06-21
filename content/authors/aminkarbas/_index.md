@@ -33,6 +33,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mkarbasf@ucsc.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=KKZVlOIAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mkarbas/
