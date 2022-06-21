@@ -56,7 +56,7 @@ social:
 email: "mkarbasf@ucsc.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,7 +74,7 @@ Previously, I:
 * Did a Data Engineering summer internship at Sahab Pardaz after the first year of my bachelor’s, where we deveolped a practice web search engine; And,
 * Collaborated with Dr. Shahin Rouhani of Sharif University of Technology as a Machine Learning Engineer.
 
-I'm originally from Tehran, Iran, where I got my bachelor's degree in CS at Sharif University of Technology.
+I'm originally from Tehran, Iran, where I got my bachelor's degree in CS from Sharif University of Technology.
 
 # Interests:
 
