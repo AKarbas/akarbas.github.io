@@ -67,6 +67,7 @@ highlight_name: false
 My full name is **Mohammadamin Karbasforushan**.
 
 I'm currently a CSE Ph.D. student at U.C. Santa Cruz, where under the advisement of [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study Applied Cryptography.
+Currently I'm working on oblivious computing and searchable encryption.
 Previously, I:
 * Did a research internship at Max Planck Institute for Informatics, where I worked toward gathering Certificate Transparency Logs' data for further analysis;
 * Was a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon): our team provided the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web;
