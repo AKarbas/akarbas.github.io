@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-#  theme_night: minimal
+  # theme_night: minimal
   font: minimal
   font_size: M
 
@@ -77,7 +77,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: true
+    gravatar: false
     shape: circle
   comment:
     provider: ''
@@ -101,11 +101,14 @@ features:
 # Extensions
 
 extensions:
-#  cms:
-#    branch: master
-#    local_backend: false
-#  isotope:
-#    # Enable if you use the Portfolio widget or Publication filter
-#    enable: true
+  # cms:
+  #   branch: main
+  #   local_backend: false
   academicons:
     enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  # allow_frame: true

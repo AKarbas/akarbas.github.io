@@ -2,7 +2,8 @@
 .idea/
 
 # Hugo
-/resources/
+resources/
 public/
-assets/jsconfig.json
+jsconfig.json
+node_modules/
 .hugo_build.lock
