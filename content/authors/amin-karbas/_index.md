@@ -78,9 +78,6 @@ highlight_name: true
 
 My full name is Mohammadamin Karbasforushan, but I go by Amin Karbas.
 
-I'm currently a CSE Ph.D. student at U.C. Santa Cruz where I study Applied Cryptography under PI [Ioannis Demertzis](https://www.idemertzis.com).
-I'm currently working on oblivious computing and searchable encryption.
-Previously, I
-did an Internet Measurement research internship at Max Planck Institute for Informatics
-and was a data infrastructure engineer at CafeBazaar Cloud (now called Sotoon Cloud).
+I study Applied Cryptography under [Prof. Ioannis Demertzis](https://www.idemertzis.com)'s advisement; currently working on Oblivious Computing and Searchable Encryption.
+See below or my [CV](/media/AminKarbas_cv.pdf) for more.
 
