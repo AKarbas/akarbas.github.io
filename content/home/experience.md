@@ -50,15 +50,6 @@ experience:
     description: |2-
       - Built a deep learning-based Farsi text Object Character Recognition (OCR) pipeline
 
-  - title: 'Data Engineering Intern'
-    company: 'Sahab Pardaz'
-    company_url: 'https://sahab.ir/en/'
-    location: 'Tehran, Iran'
-    date_start: '2017-07-01'
-    date_end: '2017-09-15'
-    description: |2-
-      - Developed a distributed and highly available web search engine indexing millions of websites
-      - Developed a document index/fetch wrapper for ElasticSearch
 
 
 design:
