@@ -6,7 +6,7 @@ title: "Amin Karbas"
 superuser: true
 
 # Role/position
-role: '[Ph.D. Student](https://engineering.ucsc.edu/people/mkarbasf)'
+role: '[Ph.D. Student](https://campusdirectory.ucsc.edu/cd_detail?uid=mkarbasf)'
 
 # Organizations/Affiliations
 organizations:
