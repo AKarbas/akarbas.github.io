@@ -24,9 +24,9 @@ interests:
     - Encrypted Databases and Systems
 - |2-
   **Systems**
-    - Disaggregated Data Centers
+    - Disaggregated Computing
     - Near-Data Computation
-    - Distributed Databases
+    - Accelerators and SoCs
 
 education:
   courses:
@@ -78,6 +78,7 @@ highlight_name: true
 
 My full name is **Mohammadamin Karbasforushan**, but I go by Amin Karbas.
 
-Advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com) I study Applied Cryptography and Security. I'm currently working on Oblivious Computing and Encrypted Databases and Systems.
+Advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study Applied Cryptography and Security.
+I'm currently working on Oblivious Computing and Encrypted Databases and Systems.
 See below or my [CV](/media/AminKarbas_cv.pdf) for more.
 
