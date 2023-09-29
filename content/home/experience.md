@@ -22,6 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'Intern Infrastructure Software Engineer'
+    company: 'Neuralink'
+    company_url: 'https://neuralink.com/'
+    location: 'Fremont, CA'
+    date_start: '2023-07-03'
+    date_end: '2023-09-22'
+    description: |2-
+      - Reduced the software build time of the surgical robot by 2x by creating
+        the pipeline to build ready-for-surgery OS images in CI using KVM and
+        Packer
+      - Reduced the software deploy time of the surgical robot by 6x and the
+        number of manual steps by 3x by creating an automated installation flow
+        using iPXE, Casper, Subiquity, and Curtin
+      - Increased testing confidence by ensuring the robot software is in the
+        exact same state in tests and surgery
+
   - title: 'Research Intern'
     company: 'Max Planck Institute for Informatics'
     company_url: 'https://www.mpi-inf.mpg.de/'
@@ -29,7 +45,9 @@ experience:
     date_start: '2020-08-05'
     date_end: '2020-12-31'
     description: |2-
-      - Investigated the impact of changes in user-agents' TLS certificate lifetime requirements using data gathered from Certificate Transparency Logs
+      - Investigated the impact of changes in user-agents' TLS certificate
+        lifetime requirements using data gathered from Certificate Transparency
+        Logs
 
   - title: 'Data Infrastructure Engineer'
     company: 'Sotoon (CafeBazaar Cloud)'
@@ -38,9 +56,13 @@ experience:
     date_start: '2018-07-19'
     date_end: '2021-05-29'
     description: |2-
-      - Provided the platform to transfer, store, and analyze big data at petabyte scale for multiple user-facing apps with 84M+ active users across Android, iOS, and web
-      - Set up and/or maintained Apache {Druid, Kafka, Hadoop, Spark, Zeppelin, ZooKeeper} and M3DB clusters and services
-      - Developed Kubernetes operators to manage Apache {Kafka, Hadoop, ZooKeeper} clusters in a Platform as a Service environment
+      - Provided the platform to transfer, store, and analyze big data at
+        petabyte scale for multiple user-facing apps with 84M+ active users
+        across Android, iOS, and web
+      - Set up and/or maintained Apache {Druid, Kafka, Hadoop, Spark, Zeppelin,
+        ZooKeeper} and M3DB clusters and services
+      - Developed Kubernetes operators to manage Apache {Kafka, Hadoop,
+        ZooKeeper} clusters in a Platform as a Service environment
 
   - title: 'Machine Learning Engineer'
     company: 'GojeSabz Big Data'
@@ -48,11 +70,11 @@ experience:
     date_start: '2018-02-01'
     date_end: '2019-09-15'
     description: |2-
-      - Built a deep learning-based Farsi text Object Character Recognition (OCR) pipeline
+      - Built a deep learning-based Farsi text Object Character Recognition
+        (OCR) pipeline
 
 
 
 design:
   columns: '2'
 ---
-

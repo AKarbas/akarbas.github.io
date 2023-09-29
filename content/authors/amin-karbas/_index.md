@@ -25,8 +25,7 @@ interests:
 - |2-
   **Systems**
     - Disaggregated Computing
-    - Near-Data Computation
-    - Accelerators and SoCs
+    - HW/SW Co-Design
 
 education:
   courses:
