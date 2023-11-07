@@ -13,8 +13,9 @@ title: Experience
 subtitle: "For more details see my [CV](media/AminKarbas_cv.pdf)"
 
 # Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+#   Refer to
+#   https://university.research.dev/getting-started/customize/#datetime-options
+date_format: 1/2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -29,25 +30,22 @@ experience:
     date_start: '2023-07-03'
     date_end: '2023-09-22'
     description: |2-
-      - Reduced the software build time of the surgical robot by 2x by creating
-        the pipeline to build ready-for-surgery OS images in CI using KVM and
-        Packer
-      - Reduced the software deploy time of the surgical robot by 6x and the
-        number of manual steps by 3x by creating an automated installation flow
-        using iPXE, Casper, Subiquity, and Curtin
-      - Increased testing confidence by ensuring the robot software is in the
-        exact same state in tests and surgery
+      - Reduced surgical robot software build time by 2x using a pipeline to
+        build ready-for-surgery OS images in CI using Hashicorp Packer and QEMU
+      - Reduced surgical robot software deploy time by 6x and manual steps by 3x
+        using automated installation via iPXE, Casper, Subiquity, and Curtin
+      - Increased testing confidence by ensuring the same robot software state
+        is used in tests and surgery
 
-  - title: 'Research Intern'
+  - title: 'Intern Researcher'
     company: 'Max Planck Institute for Informatics'
     company_url: 'https://www.mpi-inf.mpg.de/'
     location: 'Saarbrücken, Germany (remote)'
     date_start: '2020-08-05'
     date_end: '2020-12-31'
     description: |2-
-      - Investigated the impact of changes in user-agents' TLS certificate
-        lifetime requirements using data gathered from Certificate Transparency
-        Logs
+      - Designed a pipeline to collect and stay up to date with Certificate
+        Transparency Logs’ data
 
   - title: 'Data Infrastructure Engineer'
     company: 'Sotoon (CafeBazaar Cloud)'
@@ -63,15 +61,16 @@ experience:
         ZooKeeper} and M3DB clusters and services
       - Developed Kubernetes operators to manage Apache {Kafka, Hadoop,
         ZooKeeper} clusters in a Platform as a Service environment
+      - Scaled the storage cluster from 10s of terabytes to petabytes (100x)
 
-  - title: 'Machine Learning Engineer'
-    company: 'GojeSabz Big Data'
-    location: 'Tehran, Iran'
-    date_start: '2018-02-01'
-    date_end: '2019-09-15'
-    description: |2-
-      - Built a deep learning-based Farsi text Object Character Recognition
-        (OCR) pipeline
+#  - title: 'Machine Learning Engineer'
+#    company: 'GojeSabz Big Data'
+#    location: 'Tehran, Iran'
+#    date_start: '2018-02-01'
+#    date_end: '2019-09-15'
+#    description: |2-
+#      - Built a deep learning-based Farsi text Object Character Recognition
+#        (OCR) pipeline
 
 
 
