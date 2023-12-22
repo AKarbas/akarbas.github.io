@@ -30,12 +30,12 @@ experience:
     date_start: '2023-07-03'
     date_end: '2023-09-22'
     description: |2-
-      - Reduced surgical robot software build time by 2x using a pipeline to
+      - Reduced surgical robot software build time by half using a pipeline to
         build ready-for-surgery OS images in CI using Hashicorp Packer and QEMU
-      - Reduced surgical robot software deploy time by 6x and manual steps by 3x
-        using automated installation via iPXE, Casper, Subiquity, and Curtin
+      - Improved surgical robot software deploy time by 6x and manual steps by
+        3x using automated installation via iPXE, Casper, Subiquity, and Curtin
       - Increased testing confidence by ensuring the same robot software state
-        is used in tests and surgery
+        is used in testing and surgery
 
   - title: 'Intern Researcher'
     company: 'Max Planck Institute for Informatics'
@@ -44,7 +44,7 @@ experience:
     date_start: '2020-08-05'
     date_end: '2020-12-31'
     description: |2-
-      - Designed a pipeline to collect and stay up to date with Certificate
+      - Designed a pipeline to collect and stay current with Certificate
         Transparency Logs’ data
 
   - title: 'Data Infrastructure Engineer'
@@ -54,25 +54,14 @@ experience:
     date_start: '2018-07-19'
     date_end: '2021-05-29'
     description: |2-
-      - Provided the platform to transfer, store, and analyze big data at
+      - Built a platform to transfer, store, and analyze big data at
         petabyte scale for multiple user-facing apps with 84M+ active users
         across Android, iOS, and web
-      - Set up and/or maintained Apache {Druid, Kafka, Hadoop, Spark, Zeppelin,
+      - Launched and maintained Apache {Druid, Kafka, Hadoop, Spark, Zeppelin,
         ZooKeeper} and M3DB clusters and services
       - Developed Kubernetes operators to manage Apache {Kafka, Hadoop,
         ZooKeeper} clusters in a Platform as a Service environment
       - Scaled the storage cluster from 10s of terabytes to petabytes (100x)
-
-#  - title: 'Machine Learning Engineer'
-#    company: 'GojeSabz Big Data'
-#    location: 'Tehran, Iran'
-#    date_start: '2018-02-01'
-#    date_end: '2019-09-15'
-#    description: |2-
-#      - Built a deep learning-based Farsi text Object Character Recognition
-#        (OCR) pipeline
-
-
 
 design:
   columns: '2'
