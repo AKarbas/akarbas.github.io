@@ -20,7 +20,7 @@ bio: CSE Ph.D. student
 interests:
 - |2-
   **Applied Cryptography and Security**
-    - Oblivious Computating
+    - Oblivious Computing
     - Encrypted Databases and Systems
 - |2-
   **Systems**
