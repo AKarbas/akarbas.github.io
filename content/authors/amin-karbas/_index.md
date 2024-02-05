@@ -6,7 +6,7 @@ title: "Amin Karbas"
 superuser: true
 
 # Role/position
-role: '[Ph.D. Student](https://campusdirectory.ucsc.edu/cd_detail?uid=mkarbasf)'
+role: "[Master's Candidate](https://campusdirectory.ucsc.edu/cd_detail?uid=mkarbasf)"
 
 # Organizations/Affiliations
 organizations:
@@ -15,7 +15,7 @@ organizations:
 - name: University of California Santa Cruz
 
 # Short bio (displayed in user profile at end of posts)
-bio: CSE Ph.D. student
+bio: CSE Master's Candidate
 
 interests:
 - |2-
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D., Computer Science and Engineering
+  - course: M.S., Computer Science and Engineering
     institution: U.C. Santa Cruz
   - course: B.Sc., Computer Science
     institution: Sharif University of Technology
@@ -49,18 +49,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mkarbas/
-# - icon: facebook
-#   icon_pack: fab
-#   link: https://fb.com/AKarbasf/
 - icon: github
   icon_pack: fab
   link: https://github.com/akarbas
 - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KKZVlOIAAAAJ
-#- icon: cv
-#  icon_pack: ai
-#  link: media/AminKarbas_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mkarbasf@ucsc.edu"
@@ -75,9 +69,10 @@ highlight_name: true
 # - Visitors
 ---
 
-My full name is **Mohammadamin Karbasforushan**, but I go by Amin Karbas.
+**New: I am currently looking for full-time opportunities in systems and infrastructure.**
 
-Advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study Applied Cryptography and Security.
-I'm currently working on Oblivious Computing and Encrypted Databases and Systems.
-See below or my [CV](/media/AminKarbas_cv.pdf) for more.
+My full name is *Mohammadamin Karbasforushan*, but I go by Amin Karbas.
+
+Advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study Applied Cryptography and Security, working on Oblivious Computing and Encrypted Databases and Systems.
+See below or my [resume](/media/AminKarbas_resume.pdf) for more.
 

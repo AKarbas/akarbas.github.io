@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle: "For more details see my [CV](media/AminKarbas_cv.pdf)"
+subtitle: "For more details see my [resume](media/AminKarbas_resume.pdf)"
 
 # Date format for experience
 #   Refer to

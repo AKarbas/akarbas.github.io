@@ -31,6 +31,6 @@ main:
     #- name: Teaching
     #  url: '#teaching'
     #  weight: 75
-  - name: '<b>CV</b>'
-    url: 'media/AminKarbas_cv.pdf'
+  - name: '<b>Resume</b>'
+    url: 'media/AminKarbas_resume.pdf'
     weight: 80
