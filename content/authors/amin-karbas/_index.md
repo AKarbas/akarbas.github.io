@@ -48,7 +48,7 @@ social:
   link: https://www.twitter.com/OItsMAK2/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/mkarbas/
+  link: https://www.linkedin.com/in/akarbas/
 - icon: github
   icon_pack: fab
   link: https://github.com/akarbas
@@ -73,6 +73,8 @@ highlight_name: true
 
 My full name is *Mohammadamin Karbasforushan*, but I go by Amin Karbas.
 
-Advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study Applied Cryptography and Security, working on Oblivious Computing and Encrypted Databases and Systems.
-See below or my [resume](/media/AminKarbas_resume.pdf) for more.
+Advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study
+Applied Cryptography and Security, working on Oblivious Computing and Encrypted
+Databases and Systems. See below or my [resume](/media/AminKarbas_resume.pdf)
+for more.
 
