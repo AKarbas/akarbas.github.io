@@ -43,18 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mkarbasf@ucsc.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://www.twitter.com/OItsMAK2/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/akarbas/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/akarbas
 - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KKZVlOIAAAAJ
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/3338591/amin
+- icon: github
+  icon_pack: fab
+  link: https://github.com/akarbas
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mkarbasf@ucsc.edu"
@@ -69,7 +69,7 @@ highlight_name: true
 # - Visitors
 ---
 
-**New: I am currently looking for full-time opportunities in systems and infrastructure.**
+**I am currently looking for full-time opportunities in systems and infrastructure software engineering.**
 
 My full name is *Mohammadamin Karbasforushan*, but I go by Amin Karbas.
 
