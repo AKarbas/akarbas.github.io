@@ -69,8 +69,6 @@ highlight_name: true
 # - Visitors
 ---
 
-**I am currently looking for full-time opportunities in systems and infrastructure software engineering.**
-
 My full name is *Mohammadamin Karbasforushan*, but I go by Amin Karbas.
 
 Advised by [Prof. Ioannis Demertzis](https://www.idemertzis.com), I study

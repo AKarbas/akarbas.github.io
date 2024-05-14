@@ -16,6 +16,9 @@ subtitle: ''
 - [Teaching Assistant] [CSE101: Data Structures and
   Algorithms](https://courses.engineering.ucsc.edu/courses/cse101), UCSC; Fall
   '22, Fall '23, Winter '24
+- [Teaching Assistant] [CSE102: Data Structures and
+  Algorithms](https://courses.engineering.ucsc.edu/courses/cse102), UCSC; Spring
+  '24
 - [Teaching Assistant] [CSE108:
   Cryptography](https://courses.engineering.ucsc.edu/courses/cse108), UCSC;
   Winter '22, Spring '23
