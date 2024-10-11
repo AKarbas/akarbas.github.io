@@ -1,9 +1,7 @@
-module github.com/wowchemy/starter-hugo-academic
+module my_website
 
-go 1.15
+go 1.19
 
 require (
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core v0.3.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo v0.2.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.9.0 // indirect
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.2.1-0.20240602133901-492e343c2a33
 )
