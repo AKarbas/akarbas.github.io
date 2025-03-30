@@ -3,7 +3,7 @@
 title: Amin Karbas
 
 # Name pronunciation (optional)
-name_pronunciation: Ameen Kar-bus
+name_pronunciation: I-Mean Kar-bus
 
 # Full name (for SEO)
 first_name: Amin
@@ -39,5 +39,5 @@ profiles:
 ---
 
 My full name is _Mohammadamin Karbasforushan_, but I go by Amin Karbas.
-I recentlly finished my Master's at UCSC, and am working on the next generation
-of production engineering tools at Resolve AI.
+Currently building the next generation of production engineering tools at
+[Resolve AI](https://resolve.ai).
